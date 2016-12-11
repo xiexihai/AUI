@@ -1,0 +1,18 @@
+@import './reset.scss';
+body{
+	background:#aaa;
+	h1{
+		color:red;
+	}
+	h2{
+		color:yellow;
+	}
+	p{
+		color:#222;
+	}
+	header{
+		padding:20px;
+		font-weight:600;
+	}
+
+}
